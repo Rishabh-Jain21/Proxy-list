@@ -9,7 +9,8 @@ pip install requests
 pip install beautifulsoup4
 ```
 2.Run the script
-After running once make sure to change file mode to append.
+
+After running once make sure to change file mode to append to add new proxy in the existing text file.
 ``` python
 proxy_list = open('proxylist.txt', 'a')
 ```
